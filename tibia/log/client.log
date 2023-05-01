@@ -8073,3 +8073,86 @@ uest connection to gameserver  "tcp://34.95.233.173:7172"  (unprotected:  "tcp:/
 [ 2022-11-19 20:23:29,760 ] Request connection to gameserver  "tcp://34.95.233.173:7172" "Falencia Global"
 [ 2022-11-19 20:23:29,788 ] Connected to gameserver  "tcp://34.95.233.173:7172" "Falencia Global"
 [ 2022-11-19 20:23:30,737 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://falencia-global.com.br/login.php") ) due to too many retries.
+[ 2022-11-20 12:59:48,036 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-20 12:59:52,975 ] Asset loading complete
+[ 2022-11-20 13:01:20,475 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-20 13:01:21,443 ] Asset loading complete
+[ 2022-11-20 16:25:46,769 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-20 16:25:49,986 ] Asset loading complete
+[ 2022-11-20 23:17:11,948 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-20 23:17:15,294 ] Asset loading complete
+[ 2022-11-20 23:21:29,754 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-20 23:21:30,814 ] Asset loading complete
+[ 2022-11-22 11:25:10,910 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-22 11:25:12,206 ] Asset loading complete
+[ 2022-11-22 11:25:56,016 ] Request connection to gameserver  "tcp://34.95.233.173:7172"  (unprotected:  "tcp://34.95.233.173:7172" )  requested (Charakter "ADM" )
+[ 2022-11-22 11:25:56,020 ] Request connection to gameserver  "tcp://34.95.233.173:7172" "Falencia Global"
+[ 2022-11-22 11:25:56,021 ] News query failed: "Unrecognized event news."
+[ 2022-11-22 11:25:56,041 ] Connected to gameserver  "tcp://34.95.233.173:7172" "Falencia Global"
+[ 2022-11-22 11:25:57,375 ] News query failed: "Unrecognized event news."
+[ 2022-11-22 11:26:32,247 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-22 11:26:33,291 ] Asset loading complete
+[ 2022-11-23 00:37:45,272 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-23 00:37:46,786 ] Asset loading complete
+[ 2022-11-25 21:35:38,547 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-25 21:35:39,669 ] Asset loading complete
+[ 2022-11-25 21:46:39,791 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-25 21:46:41,021 ] Asset loading complete
+[ 2022-11-25 23:48:42,435 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-25 23:48:43,530 ] Asset loading complete
+[ 2022-11-25 23:49:43,934 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-25 23:49:44,904 ] Asset loading complete
+[ 2022-11-25 23:53:40,761 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-25 23:53:41,742 ] Asset loading complete
+[ 2022-11-30 19:35:05,400 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-30 19:35:06,371 ] Not a JPEG file: starts with 0x89 0x50
+[ 2022-11-30 19:35:06,371 ] qrc:/qml/clientwindow.qml:44:3: QML Image: Error decoding: qrc:/images/title.jpg: Unable to read image data
+[ 2022-11-30 19:35:10,658 ] Asset loading complete
+[ 2022-11-30 19:41:46,633 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-30 19:41:47,330 ] Not a JPEG file: starts with 0x89 0x50
+[ 2022-11-30 19:41:47,330 ] qrc:/qml/clientwindow.qml:44:3: QML Image: Error decoding: qrc:/images/title.jpg: Unable to read image data
+[ 2022-11-30 19:41:47,859 ] Asset loading complete
+[ 2022-11-30 19:52:34,778 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-30 19:52:35,335 ] Not a JPEG file: starts with 0x89 0x50
+[ 2022-11-30 19:52:35,335 ] qrc:/qml/clientwindow.qml:44:3: QML Image: Error decoding: qrc:/images/title.jpg: Unable to read image data
+[ 2022-11-30 19:52:35,848 ] Asset loading complete
+[ 2022-11-30 20:17:24,048 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-30 20:17:24,611 ] Not a JPEG file: starts with 0x89 0x50
+[ 2022-11-30 20:17:24,611 ] qrc:/qml/clientwindow.qml:44:3: QML Image: Error decoding: qrc:/images/title.jpg: Unable to read image data
+[ 2022-11-30 20:17:25,079 ] Asset loading complete
+[ 2022-11-30 20:18:39,915 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-30 20:18:40,464 ] Not a JPEG file: starts with 0x89 0x50
+[ 2022-11-30 20:18:40,464 ] qrc:/qml/clientwindow.qml:44:3: QML Image: Error decoding: qrc:/images/title.jpg: Unable to read image data
+[ 2022-11-30 20:18:40,950 ] Asset loading complete
+[ 2022-11-30 20:18:56,953 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-30 20:18:57,491 ] Not a JPEG file: starts with 0x89 0x50
+[ 2022-11-30 20:18:57,491 ] qrc:/qml/clientwindow.qml:44:3: QML Image: Error decoding: qrc:/images/title.jpg: Unable to read image data
+[ 2022-11-30 20:18:57,963 ] Asset loading complete
+[ 2022-11-30 20:23:06,360 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-30 20:23:06,897 ] Not a JPEG file: starts with 0x89 0x50
+[ 2022-11-30 20:23:06,897 ] qrc:/qml/clientwindow.qml:44:3: QML Image: Error decoding: qrc:/images/title.jpg: Unable to read image data
+[ 2022-11-30 20:23:07,370 ] Asset loading complete
+[ 2022-11-30 20:24:26,811 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-30 20:24:27,348 ] Not a JPEG file: starts with 0x89 0x50
+[ 2022-11-30 20:24:27,348 ] qrc:/qml/clientwindow.qml:44:3: QML Image: Error decoding: qrc:/images/title.jpg: Unable to read image data
+[ 2022-11-30 20:24:27,837 ] Asset loading complete
+[ 2022-11-30 20:25:49,711 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-30 20:25:50,756 ] Asset loading complete
+[ 2022-11-30 20:26:57,299 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-30 20:26:58,316 ] Asset loading complete
+[ 2022-11-30 20:31:53,690 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-30 20:31:54,748 ] Asset loading complete
+[ 2022-11-30 20:33:52,188 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-30 20:33:52,739 ] Not a JPEG file: starts with 0x89 0x50
+[ 2022-11-30 20:33:52,739 ] qrc:/qml/clientwindow.qml:44:3: QML Image: Error decoding: qrc:/images/title.jpg: Unable to read image data
+[ 2022-11-30 20:33:53,232 ] Asset loading complete
+[ 2022-11-30 20:44:10,267 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-30 20:44:10,875 ] Not a JPEG file: starts with 0x89 0x50
+[ 2022-11-30 20:44:10,876 ] qrc:/qml/clientwindow.qml:44:3: QML Image: Error decoding: qrc:/images/title.jpg: Unable to read image data
+[ 2022-11-30 20:44:11,402 ] Asset loading complete
+[ 2022-11-30 20:44:33,372 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-30 20:44:34,444 ] Asset loading complete
+[ 2022-11-30 20:44:57,009 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-30 20:44:58,046 ] Asset loading complete
+[ 2022-11-30 20:45:23,413 ] Cannot open "D:\backup ot server full\Github\OtFalencia-Client\tibia\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-11-30 20:45:24,464 ] Asset loading complete
